@@ -6,5 +6,5 @@ The HTML structure includes a <div> container with a heading and a color picker.
   
 The CSS styles define the appearance of the page. 
   
-The JavaScript code includes a function named generateBackground(), which is called when the "Generate" button is clicked. It retrieves the selected colors from the color input elements, and then sets the background to a linear gradient using the selected colors.
+The JavaScript code includes a function named generateBackground(), which is called when the "Generate" button is clicked. It retrieves the selected colors from the color input elements, and then sets the background to a linear gradient using the selected colors.hello.
   
